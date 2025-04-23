@@ -53,11 +53,6 @@ Install these via **Arduino Library Manager**:
 
 ## Test Images 
 
-![20250422_203423](https://github.com/user-attachments/assets/940402cf-440d-4367-899f-bd71f63e6546)
 ![20250422_203415](https://github.com/user-attachments/assets/bd0bcd1a-bcd1-4159-a8e3-9560d9c79377)
 ![20250422_203335](https://github.com/user-attachments/assets/2626f54c-c75d-4394-97bc-036472371d80)
-![20250422_203333](https://github.com/user-attachments/assets/ff9440a1-7701-41cf-b2de-c4369e8715f7)
-![20250422_203457](https://github.com/user-attachments/assets/e9735ff1-4dd1-4c3e-bff3-78c517c78089)
-![20250422_203450](https://github.com/user-attachments/assets/058c1ed5-3021-415e-906a-b607b4d8e009)
-![20250422_203442](https://github.com/user-attachments/assets/fc6121b8-9b05-4af3-ba10-955a2d320ef1)
 
